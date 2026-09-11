@@ -1,31 +1,35 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Upptime configuration for teranegin.com
+# Docs: https://upptime.js.org/docs/configuration
+owner: tristanbalme
+repo: teranegin-uptime
+user-agent: tristanbalme
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: teranegin.com (home)
+    url: https://teranegin.com/
+    expectedStatusCodes: [200]
+  - name: Shop
+    url: https://teranegin.com/shop/
+    expectedStatusCodes: [200]
+  - name: Store API (cart)
+    url: https://teranegin.com/wp-json/wc/store/v1/cart
+    expectedStatusCodes: [200]
+    __dangerous__body_down_if_text_missing: "totals"
+
+# Every downtime opens a GitHub issue assigned here, which GitHub emails / pushes to you.
+assignees:
+  - tristanbalme
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /teranegin-uptime
+  logoUrl: https://teranegin.com/favicon.ico
+  name: Terane status
+  introTitle: "Live status of **teranegin.com**"
+  introMessage: Checked every 5 minutes from GitHub Actions. Home page, shop page and the WooCommerce Store API. Outages open an issue in the [monitor repository](https://github.com/tristanbalme/teranegin-uptime/issues).
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Incidents
+      href: https://github.com/tristanbalme/teranegin-uptime/issues?q=is%3Aissue
+    - title: teranegin.com
+      href: https://teranegin.com
