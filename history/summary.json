@@ -52,25 +52,5 @@
     "timeMonth": 1234,
     "timeYear": 1234,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Alert path test (temporary, remove me)",
-    "url": "https://teranegin.com/upptime-alert-test-does-not-exist/",
-    "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
-    "slug": "alert-path-test-temporary-remove-me",
-    "status": "down",
-    "uptime": "70.79%",
-    "uptimeDay": "70.79%",
-    "uptimeWeek": "70.79%",
-    "uptimeMonth": "70.79%",
-    "uptimeYear": "70.79%",
-    "time": 1730,
-    "timeDay": 1730,
-    "timeWeek": 1730,
-    "timeMonth": 1730,
-    "timeYear": 1730,
-    "dailyMinutesDown": {
-      "2026-09-11": 0
-    }
   }
 ]
