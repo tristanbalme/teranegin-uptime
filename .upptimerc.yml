@@ -16,6 +16,10 @@ sites:
     expectedStatusCodes: [200]
     __dangerous__body_down_if_text_missing: "totals"
 
+  - name: Alert path test (temporary, remove me)
+    url: https://teranegin.com/upptime-alert-test-does-not-exist/
+    expectedStatusCodes: [200]
+
 # Every downtime opens a GitHub issue assigned here, which GitHub emails / pushes to you.
 assignees:
   - tristanbalme
