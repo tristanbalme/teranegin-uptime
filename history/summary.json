@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "alert-path-test-temporary-remove-me",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "70.79%",
+    "uptimeDay": "70.79%",
+    "uptimeWeek": "70.79%",
+    "uptimeMonth": "70.79%",
+    "uptimeYear": "70.79%",
     "time": 1730,
     "timeDay": 1730,
     "timeWeek": 1730,
     "timeMonth": 1730,
     "timeYear": 1730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-11": 0
+    }
   }
 ]
