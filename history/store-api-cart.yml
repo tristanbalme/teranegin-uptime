@@ -1,7 +1,7 @@
 url: https://teranegin.com/wp-json/wc/store/v1/cart
-status: up
+status: down
 code: 200
-responseTime: 1746
-lastUpdated: 2026-09-12T00:50:57.105Z
+responseTime: 210
+lastUpdated: 2026-09-12T12:24:09.911Z
 startTime: 2026-09-11T01:06:03.613Z
 generator: Upptime <https://github.com/upptime/upptime>
