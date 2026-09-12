@@ -40,17 +40,19 @@
     "url": "https://teranegin.com/wp-json/wc/store/v1/cart",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "store-api-cart",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1405,
-    "timeDay": 1746,
-    "timeWeek": 1405,
-    "timeMonth": 1405,
-    "timeYear": 1405,
-    "dailyMinutesDown": {}
+    "time": 1106,
+    "timeDay": 978,
+    "timeWeek": 1106,
+    "timeMonth": 1106,
+    "timeYear": 1106,
+    "dailyMinutesDown": {
+      "2026-09-12": 0
+    }
   }
 ]
