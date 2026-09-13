@@ -4,19 +4,20 @@
     "url": "https://teranegin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "teranegin-com-home",
-    "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "96.63%",
-    "time": 2121,
-    "timeDay": 1961,
-    "timeWeek": 2121,
-    "timeMonth": 2121,
-    "timeYear": 2121,
+    "status": "down",
+    "uptime": "96.84%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
+    "time": 1859,
+    "timeDay": 1543,
+    "timeWeek": 1859,
+    "timeMonth": 1859,
+    "timeYear": 1859,
     "dailyMinutesDown": {
-      "2026-09-12": 116
+      "2026-09-12": 116,
+      "2026-09-13": 0
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://teranegin.com/shop/",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "shop",
-    "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "96.63%",
-    "time": 2031,
-    "timeDay": 1678,
-    "timeWeek": 2031,
-    "timeMonth": 2031,
-    "timeYear": 2031,
+    "status": "down",
+    "uptime": "96.85%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.85%",
+    "time": 1776,
+    "timeDay": 1321,
+    "timeWeek": 1776,
+    "timeMonth": 1776,
+    "timeYear": 1776,
     "dailyMinutesDown": {
-      "2026-09-12": 116
+      "2026-09-12": 116,
+      "2026-09-13": 0
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "store-api-cart",
     "status": "down",
-    "uptime": "94.36%",
-    "uptimeDay": "86.49%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "94.36%",
-    "uptimeYear": "94.36%",
+    "uptime": "88.18%",
+    "uptimeDay": "79.11%",
+    "uptimeWeek": "88.18%",
+    "uptimeMonth": "88.18%",
+    "uptimeYear": "88.18%",
     "time": 1190,
-    "timeDay": 1030,
+    "timeDay": 1303,
     "timeWeek": 1190,
     "timeMonth": 1190,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2026-09-12": 195
+      "2026-09-12": 195,
+      "2026-09-13": 242
     }
   }
 ]
