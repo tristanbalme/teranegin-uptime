@@ -4,20 +4,20 @@
     "url": "https://teranegin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "teranegin-com-home",
-    "status": "down",
-    "uptime": "96.84%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "96.84%",
-    "time": 1859,
-    "timeDay": 1543,
-    "timeWeek": 1859,
-    "timeMonth": 1859,
-    "timeYear": 1859,
+    "status": "up",
+    "uptime": "92.39%",
+    "uptimeDay": "79.54%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "92.39%",
+    "time": 2083,
+    "timeDay": 1964,
+    "timeWeek": 2083,
+    "timeMonth": 2083,
+    "timeYear": 2083,
     "dailyMinutesDown": {
       "2026-09-12": 116,
-      "2026-09-13": 0
+      "2026-09-13": 178
     }
   },
   {
@@ -25,20 +25,20 @@
     "url": "https://teranegin.com/shop/",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "shop",
-    "status": "down",
-    "uptime": "96.85%",
-    "uptimeDay": "91.91%",
-    "uptimeWeek": "96.85%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "96.85%",
-    "time": 1776,
-    "timeDay": 1321,
-    "timeWeek": 1776,
-    "timeMonth": 1776,
-    "timeYear": 1776,
+    "status": "up",
+    "uptime": "92.40%",
+    "uptimeDay": "79.56%",
+    "uptimeWeek": "92.40%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "92.40%",
+    "time": 1957,
+    "timeDay": 1701,
+    "timeWeek": 1957,
+    "timeMonth": 1957,
+    "timeYear": 1957,
     "dailyMinutesDown": {
       "2026-09-12": 116,
-      "2026-09-13": 0
+      "2026-09-13": 178
     }
   },
   {
@@ -46,20 +46,20 @@
     "url": "https://teranegin.com/wp-json/wc/store/v1/cart",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "store-api-cart",
-    "status": "down",
-    "uptime": "88.18%",
-    "uptimeDay": "79.11%",
-    "uptimeWeek": "88.18%",
-    "uptimeMonth": "88.18%",
-    "uptimeYear": "88.18%",
-    "time": 1190,
-    "timeDay": 1303,
-    "timeWeek": 1190,
-    "timeMonth": 1190,
-    "timeYear": 1190,
+    "status": "up",
+    "uptime": "84.13%",
+    "uptimeDay": "70.85%",
+    "uptimeWeek": "84.13%",
+    "uptimeMonth": "84.13%",
+    "uptimeYear": "84.13%",
+    "time": 1266,
+    "timeDay": 1291,
+    "timeWeek": 1266,
+    "timeMonth": 1266,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2026-09-12": 195,
-      "2026-09-13": 242
+      "2026-09-13": 420
     }
   }
 ]
