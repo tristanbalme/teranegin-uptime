@@ -5,19 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "teranegin-com-home",
     "status": "down",
-    "uptime": "93.01%",
-    "uptimeDay": "87.51%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "93.01%",
+    "uptime": "91.78%",
+    "uptimeDay": "83.57%",
+    "uptimeWeek": "91.78%",
+    "uptimeMonth": "91.78%",
+    "uptimeYear": "91.78%",
     "time": 2083,
-    "timeDay": 2123,
+    "timeDay": 1968,
     "timeWeek": 2083,
     "timeMonth": 2083,
     "timeYear": 2083,
     "dailyMinutesDown": {
       "2026-09-12": 116,
-      "2026-09-13": 180
+      "2026-09-13": 198,
+      "2026-09-14": 38
     }
   },
   {
@@ -26,19 +27,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "shop",
     "status": "down",
-    "uptime": "93.04%",
-    "uptimeDay": "87.61%",
-    "uptimeWeek": "93.04%",
-    "uptimeMonth": "93.04%",
-    "uptimeYear": "93.04%",
+    "uptime": "91.81%",
+    "uptimeDay": "83.67%",
+    "uptimeWeek": "91.81%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "91.81%",
     "time": 1760,
-    "timeDay": 1554,
+    "timeDay": 1217,
     "timeWeek": 1760,
     "timeMonth": 1760,
     "timeYear": 1760,
     "dailyMinutesDown": {
       "2026-09-12": 116,
-      "2026-09-13": 178
+      "2026-09-13": 197,
+      "2026-09-14": 38
     }
   },
   {
@@ -47,19 +49,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "store-api-cart",
     "status": "down",
-    "uptime": "82.69%",
-    "uptimeDay": "62.61%",
-    "uptimeWeek": "82.69%",
-    "uptimeMonth": "82.69%",
-    "uptimeYear": "82.69%",
+    "uptime": "81.60%",
+    "uptimeDay": "58.66%",
+    "uptimeWeek": "81.60%",
+    "uptimeMonth": "81.60%",
+    "uptimeYear": "81.60%",
     "time": 1133,
-    "timeDay": 986,
+    "timeDay": 657,
     "timeWeek": 1133,
     "timeMonth": 1133,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2026-09-12": 195,
-      "2026-09-13": 539
+      "2026-09-13": 557,
+      "2026-09-14": 38
     }
   }
 ]
