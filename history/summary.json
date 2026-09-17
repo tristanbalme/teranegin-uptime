@@ -4,12 +4,12 @@
     "url": "https://teranegin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "teranegin-com-home",
-    "status": "up",
-    "uptime": "95.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.95%",
-    "uptimeMonth": "95.95%",
-    "uptimeYear": "95.95%",
+    "status": "down",
+    "uptime": "96.04%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "96.04%",
     "time": 3711,
     "timeDay": 2542,
     "timeWeek": 3711,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-09-12": 116,
       "2026-09-13": 198,
-      "2026-09-14": 38
+      "2026-09-14": 38,
+      "2026-09-17": 10
     }
   },
   {
@@ -26,21 +27,22 @@
     "url": "https://teranegin.com/shop/",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "shop",
-    "status": "up",
-    "uptime": "95.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
-    "time": 2222,
-    "timeDay": 3753,
-    "timeWeek": 2222,
-    "timeMonth": 2222,
-    "timeYear": 2222,
+    "status": "down",
+    "uptime": "96.15%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "96.15%",
+    "time": 3466,
+    "timeDay": 11694,
+    "timeWeek": 3466,
+    "timeMonth": 3466,
+    "timeYear": 3466,
     "dailyMinutesDown": {
       "2026-09-12": 116,
       "2026-09-13": 197,
-      "2026-09-14": 38
+      "2026-09-14": 38,
+      "2026-09-17": 1
     }
   },
   {
@@ -48,22 +50,23 @@
     "url": "https://teranegin.com/wp-json/wc/store/v1/cart",
     "icon": "https://icons.duckduckgo.com/ip3/teranegin.com.ico",
     "slug": "store-api-cart",
-    "status": "up",
-    "uptime": "85.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.04%",
-    "uptimeMonth": "85.04%",
-    "uptimeYear": "85.04%",
-    "time": 1765,
-    "timeDay": 2412,
-    "timeWeek": 1765,
-    "timeMonth": 1765,
-    "timeYear": 1765,
+    "status": "down",
+    "uptime": "85.78%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "85.78%",
+    "uptimeMonth": "85.78%",
+    "uptimeYear": "85.78%",
+    "time": 2819,
+    "timeDay": 11054,
+    "timeWeek": 2819,
+    "timeMonth": 2819,
+    "timeYear": 2819,
     "dailyMinutesDown": {
       "2026-09-12": 195,
       "2026-09-13": 557,
       "2026-09-14": 38,
-      "2026-09-15": 514
+      "2026-09-15": 514,
+      "2026-09-17": 0
     }
   }
 ]
